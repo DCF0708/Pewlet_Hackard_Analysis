@@ -19,7 +19,7 @@ The results of the employee data analysis for determining the number of retiring
 * The results from fig. 2 show a disproportional amount of impending retirements in senior positions within PH. The disproportionality is highlighted when a comparison is drawn between the number of retirements in mid-level positions versus their corresponding senior level positions. 
 * A majority of the impending retirements affect positions that require a great amount of prior experience in a skilled field of work, and likely require some prior amount of time spent employed at PH to be successful.    
 * In total there are 1549 employees that qualify for the mentorship program at PH.
-* Of the 1549 qualified employees, 409 are senior staff, and 293 are senior engineers. This indicates a high likelihood of success in the mentorship program, as the jobs that are most affected by the coming retirements hold a majority of the number of mentorship-qualified employees. 
+* Of the 1549 qualified employees, 409 are senior staff, and 293 are senior engineers. This indicates a high likelihood of success in the mentorship program, as the jobs that are most affected by the coming retirements hold a respective majority of the number of mentorship-qualified employees. 
 
 
 ## Summary of Findings: 
